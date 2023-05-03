@@ -1,5 +1,6 @@
 # Machine-Learning-Ruling-Quantum-Mechanics-by-Natural-Language
 
+Based on category theory, I have considered how ML can dominate quantum mechanics through natural language. Natural language and quantum mechanics are inherently separate, but based on category theory we can map them.
 Define functors to map between different quantum mechanics concepts.
 Use natural transformations to relate these functors. Represent natural language expressions as objects and morphisms in category theory.
 Develop a parser to extract meaning from natural language and map it to category theory representations.
